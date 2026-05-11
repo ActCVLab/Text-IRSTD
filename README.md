@@ -7,3 +7,5 @@
 * NUDT-SIRST [[download]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) [[paper]](https://ieeexplore.ieee.org/document/9864119)
 
 * IRSTD-1K [[download]](https://github.com/RuiZhang97/ISNet) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_ISNet_Shape_Matters_for_Infrared_Small_Target_Detection_CVPR_2022_paper.html)
+
+* SIRST-UAVB[[download]](https://github.com/JN-Yang/PConv-SDloss-Data) [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32996)
