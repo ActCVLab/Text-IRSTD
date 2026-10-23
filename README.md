@@ -70,7 +70,7 @@ If you use this code, please kindly cite our paper:
 @InProceedings{huang_2025_ICCV,
     title={{Text-IRSTD}: Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes},
     author= {Huang, Feng and Zheng, Shuyuan and Qiu, Zhaobing and Liu, Huanxian and Bai, Huanxin and Chen, Liqiong},
-    booktitle={Proc. IEEE Int. Conf. Comput. Vis.},
+    booktitle={2025 IEEE/CVF International Conference on Computer Vision (ICCV)},
     year={2025},
     pages={10635-10644},
     keywords={Aerospace and electronic systems;Feeds;Antennas;Filtering;Filters;Contacts;Circuits and systems;Modulation;Pixel;Protocols;infrared small target detection;semantic text prompts;cross-modal information interaction},
@@ -78,12 +78,13 @@ If you use this code, please kindly cite our paper:
 }
 
 @ARTICLE{chen2026TGRS,
+  title={Text-IRSTD: Leveraging Fuzzy Text to Promote Infrared Small Target Detection in Complex Scenes},
   author={Chen, Liqiong and Liu, Yuhao and Qiu, Zhaobin and Zheng, Shuyuan and Zou, Jiaxin and Yuan, Yangping and Huang, Feng},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
-  title={Text-IRSTD: Leveraging Fuzzy Text to Promote Infrared Small Target Detection in Complex Scenes},
   year={2026},
   volume={64},
   pages={5010216-5010216},
+  pages={1-16},
   publisher={IEEE}
 }
 ```
