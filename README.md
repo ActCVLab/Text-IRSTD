@@ -18,8 +18,7 @@ pip install openai-clip==1.0.1
 pip install opencv-python
 ```
 ## Datasets
-```
-NUAA-SIRST [download](https://github.com/YimianDai/sirst)
+NUAA-SIRST [download] (https://github.com/YimianDai/sirst)
 [paper](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html?ref=https://githubhelp.com)
 NUDT-SIRST [download](https://github.com/YeRen123455/Infrared-Small-Target-Detection) 
 [paper](https://ieeexplore.ieee.org/document/9864119)
@@ -29,7 +28,7 @@ SIRST-UAVB [download](https://github.com/JN-Yang/PConv-SDloss-Data)
 [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32996)
 IRSTD-Air [download](https://github.com/Heron0625/PBT) 
 [paper](https://ieeexplore.ieee.org/abstract/document/10559654)
-```
+
 Our project has the following structure:
 |--./dataset/
 |   |--IRSTD-1K
