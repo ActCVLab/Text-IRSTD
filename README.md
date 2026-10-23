@@ -10,6 +10,7 @@ https://ieeexplore.ieee.org/document/11667722.
 
 4.We construct a new benchmark consisting of 2,755 infrared images of different scenarios with fuzzy semantic textual annotations, called FZDT.
 ## Requirements
+```
 conda create -n text python=3.8
 
 conda activate text
@@ -19,6 +20,7 @@ pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-u
 pip install openai-clip==1.0.1
 
 pip install opencv-python
+```
 ## Datasets
 NUAA-SIRST [download](https://github.com/YimianDai/sirst)
 [paper](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html?ref=https://githubhelp.com)
