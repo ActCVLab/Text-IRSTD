@@ -2,8 +2,11 @@
 Paper: https://ieeexplore.ieee.org/document/10937752, https://ieeexplore.ieee.org/document/11667722
 ## Contributions
 1.We introduce a novel approach leveraging semantic text to guide infrared small target detection, called Text-IRSTD. It innovatively expands classical IRSTD to text-guided IRSTD, providing a new research idea.
+
 2.We devise a novel fuzzy semantic text prompt to accommodate ambiguous target categories.
+
 3.We propose a progressive cross-modal semantic interaction decoder (PCSID) to facilitate information fusion between texts and images.
+
 4.We construct a new benchmark consisting of 2,755 infrared images of different scenarios with fuzzy semantic textual annotations, called FZDT.
 ## Requirements
 conda create -n text python=3.8
