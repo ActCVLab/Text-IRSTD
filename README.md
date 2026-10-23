@@ -1,5 +1,6 @@
 ## Text-IRSTD:
-Paper: https://ieeexplore.ieee.org/document/10937752, https://ieeexplore.ieee.org/document/11667722
+Paper: https://ieeexplore.ieee.org/document/10937752, 
+https://ieeexplore.ieee.org/document/11667722.
 ## Contributions
 1.We introduce a novel approach leveraging semantic text to guide infrared small target detection, called Text-IRSTD. It innovatively expands classical IRSTD to text-guided IRSTD, providing a new research idea.
 
