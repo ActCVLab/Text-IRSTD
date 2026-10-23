@@ -49,12 +49,18 @@ Our project has the following structure:
 |   |    |    |--XDU0.txt
 |   |    |    |--XDU1.txt
 |   |    |    |--...
+```
 ## Training
+```
 python train_text.py
+```
 ## Test
+```
 python test_text.py
+```
 ## Citation
 If you use this code, please kindly cite our paper:
+```
 @ARTICLE{huang2025ICCV,
   author={Huang, Feng and Zheng, Shuyuan and Qiu, Zhaobin and Liu, Huanxian and Bai, Huanxin and Chen, Liqiong},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
@@ -73,6 +79,7 @@ If you use this code, please kindly cite our paper:
   pages={5010216-5010216},
   publisher={IEEE}
 }
+```
 ## Contact
 If you have any questions, please contact:  
 Author: Zhaobing Qiu  
