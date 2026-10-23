@@ -10,7 +10,7 @@ https://ieeexplore.ieee.org/document/11667722.
 
 4.We construct a new benchmark consisting of 2,755 infrared images of different scenarios with fuzzy semantic textual annotations, called FZDT.
 ## Framework of Text-IRSTD
-![Framework of Text-IRSTD](https://github.com/ActCVLab/DFINet/blob/main/Fig/framework.png)
+![Framework of Text-IRSTD](https://github.com/ActCVLab/Text-IRSTD/blob/main/Fig/framework.png)
 ## Visual
 ![Visual](https://github.com/ActCVLab/DFINet/blob/main/Fig/iter.png)
 ## Requirements
