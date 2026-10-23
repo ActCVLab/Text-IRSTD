@@ -11,8 +11,11 @@ https://ieeexplore.ieee.org/document/11667722.
 4.We construct a new benchmark consisting of 2,755 infrared images of different scenarios with fuzzy semantic textual annotations, called FZDT.
 ## Requirements
 conda create -n text python=3.8
+
 conda activate text
+
 pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
+
 #pip install packaging
 #pip install timm==0.4.12
 #pip install pytest chardet yacs termcolor
