@@ -67,13 +67,14 @@ python test_text.py
 ## Citation
 If you use this code, please kindly cite our paper:
 ```
-@ARTICLE{huang2025ICCV,
-  author={Huang, Feng and Zheng, Shuyuan and Qiu, Zhaobin and Liu, Huanxian and Bai, Huanxin and Chen, Liqiong},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  title={Text-IRSTD: Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes},
-  year={2025},
-  pages={10635-10644},
-  publisher={IEEE}
+@InProceedings{huang_2025_ICCV,
+    title={{Text-IRSTD}: Leveraging Semantic Text to Promote Infrared Small Target Detection in Complex Scenes},
+    author= {Huang, Feng and Zheng, Shuyuan and Qiu, Zhaobing and Liu, Huanxian and Bai, Huanxin and Chen, Liqiong},
+    booktitle={Proc. IEEE Int. Conf. Comput. Vis.},
+    year={2025},
+    pages={10635-10644},
+    keywords={Aerospace and electronic systems;Feeds;Antennas;Filtering;Filters;Contacts;Circuits and systems;Modulation;Pixel;Protocols;infrared small target detection;semantic text prompts;cross-modal information interaction},
+    doi={10.1109/ICCV51701.2025.00990}
 }
 
 @ARTICLE{chen2026TGRS,
